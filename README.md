@@ -117,7 +117,7 @@ For any question, please contact [Kun-Yu Lin](kunyulin14@outlook.com). If you fi
 @inproceedings{lin2025pancap,
     title={Panoptic Captioning: An Equivalence Bridge for Image and Text},
     author={Lin, Kun-Yu and Wang, Hongjun and Ren, Weining and Han, Kai},
-    journal={The Thirty-Ninth Annual Conference on Neural Information Processing Systems},
+    booktitle={The Thirty-Ninth Annual Conference on Neural Information Processing Systems},
     year={2025}
 }
 ```
